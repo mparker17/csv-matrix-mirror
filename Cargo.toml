@@ -1,0 +1,9 @@
+[package]
+name = "csv-matrix-mirror"
+description = "Make numbers in a CSV matrix the same both horizontally and vertically."
+version = "0.1.0"
+authors = ["M Parker <mparker17@536298.no-reply.drupal.org>"]
+license = "GPL-2.0"
+
+[dependencies]
+quick-csv = "0.1.5"
